@@ -23,7 +23,7 @@ serde_json = "1.0.114"
 toml = "0.8.10"
 prometheus = "0.13.3"
 notify = "6.1.1"
-bytes = "1.5.0"
+bytes = "1.11.1"
 matchit = "0.9.1"
 pingora-cache = { version = "0.1.0"}
 pingora-core = { version = "0.1.0"}
